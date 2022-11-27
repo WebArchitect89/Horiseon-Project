@@ -111,20 +111,12 @@ p {
 
 /*consolidated the values for content images */
 
-.search-engine-optimization h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/*consolidated the "content" values in one class*/
 
 .footer {
     padding: 30px;
