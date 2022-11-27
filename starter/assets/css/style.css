@@ -36,16 +36,7 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
+/*removed the hero class and its value*/
 .float-left {
     float: left;
     margin-right: 25px;
