@@ -32,7 +32,13 @@ body {
     color: #d9dcd6;
 }
 
-
+.header div{
+    padding-top: 20px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
 
 .header div ul {
     list-style-type: none;
