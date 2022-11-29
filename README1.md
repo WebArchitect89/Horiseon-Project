@@ -44,7 +44,7 @@ One more challenge was when I wanted to make sure that “nav” tag containing 
 
 I also had other minor challenges.
 
-[Deployed Project](https://webarchitect89.github.io/Horiseon-Project/)
+## [Deployed Project](https://webarchitect89.github.io/Horiseon-Project/)
 
 ## Installation:
 
@@ -52,7 +52,11 @@ Click on the deployed link above.
  
 ## Usage:
 
-Open the application. SS
-Go to the navigation menu. SS
-To check each tool available click on the desired option. SS
-To check the benefits, scroll all the way to the right and then to the bottom. SS
+Open the application. ```md![Aplication](starter\assets\Screenshots\Oppen the aplication.png)
+```
+Go to the navigation menu. ```md![alt text](assets/images/screenshot.png)
+```
+To check each tool available click on the desired option.```md![alt text](assets/images/screenshot.png)
+```
+To check the benefits, scroll all the way to the right and then to the bottom. ```md![alt text](assets/images/screenshot.png)
+```
