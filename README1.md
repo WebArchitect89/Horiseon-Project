@@ -48,15 +48,15 @@ I also had other minor challenges.
 
 ## Installation:
 
-Click on the deployed link above.
+### Click on the deployed link above.
  
 ## Usage:
 
-![Oppen the aplication](screenshots\nav-issue.png)
+### Open the aplication.![Open the aplication](screenshots/oppen-the-aplication.png)
 
-Go to the navigation menu. ```md![alt text](assets/images/screenshot.png)
-```
-To check each tool available click on the desired option.```md![alt text](assets/images/screenshot.png)
-```
-To check the benefits, scroll all the way to the right and then to the bottom. ```md![alt text](assets/images/screenshot.png)
-```
+### Go to the navigation menu.[nav-menu](screenshots/go-nav-menu.png)
+
+### To check each tool available click on the desired option.
+
+### To check the benefits, scroll all the way to the right and then to the bottom.[benefits](screenshots/benefits.png) 
+
