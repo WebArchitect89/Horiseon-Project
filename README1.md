@@ -52,7 +52,8 @@ Click on the deployed link above.
  
 ## Usage:
 
-![Oppen the aplication](https://github.com/WebArchitect89/Horiseon-Project/issues/11#issue-1467779456)
+![oppen-the-aplication](https://user-images.githubusercontent.com/116027529/204500253-86a6e7ac-0b43-4e22-8cb2-dc56409f2e47.png)
+
 
 Go to the navigation menu. ```md![alt text](assets/images/screenshot.png)
 ```
