@@ -18,13 +18,13 @@ Added accessibility attributes to all images and links.
 Made sure that HTML follows a logical order for the browser and the accessibility technologies, such as screen readers to be easier to read the code.
 Consolidated the selectors in the css file to clean the code.
 
-## How did I improved the project?
+## How did I improve the project?
 
 At the moment my project is easily read by accessibility technologies such as screen readers and others, ranked higher in SEO.
 
 ## How the project stands out.
 
-What makes my project rank higher is the “title”attributes I added in the “a '' tags, this way when a user clicks on the link the page opens in a new tab so it is easier to retain the user on your website for longer times.
+What makes my project stand out is the fact the “title” attributes I added in the "a" tags, this way when a user clicks on the link the page opens in a new tab so it is easier to retain the user on your website for longer times.
 
 ## Challenges.
 
@@ -40,7 +40,7 @@ Tried “inspecting”my deployed version and I spotted that the difference betw
 
 ###### Challenge 3 Navigation menu positioning.
 
-One more challenge was when I wanted to make sure that “nav” tag containing the links stays in the middle of the header, I was trying to achieve that by setting margin top for selector “a” to -40 px but when I do that it shows like this: ss  however if I do -20px or lower the size is ok but the position is slightly lower than in the mock up image.
+One more challenge was when I wanted to make sure that “nav” tag containing the links stays in the middle of the header, I was trying to achieve that by setting margin top for selector “a” to -40 px but when I do that it shows like this: img [img](screenshots/nav-issue.png) however if I do -20px or lower the size is ok but the position is slightly lower than in the mock up image.
 
 I also had other minor challenges.
 
