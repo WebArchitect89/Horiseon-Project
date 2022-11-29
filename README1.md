@@ -52,7 +52,7 @@ Click on the deployed link above.
  
 ## Usage:
 
-Oppen the aplication-![image](screenshots\oppen-the-aplication.png)
+![Oppen the aplication](screenshots\nav-issue.png)
 
 Go to the navigation menu. ```md![alt text](assets/images/screenshot.png)
 ```
