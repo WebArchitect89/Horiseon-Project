@@ -40,7 +40,7 @@ Tried “inspecting”my deployed version and I spotted that the difference betw
 
 ###### Challenge 3 Navigation menu positioning.
 
-One more challenge was when I wanted to make sure that “nav” tag containing the links stays in the middle of the header, I was trying to achieve that by setting margin top for selector “a” to -40 px but when I do that it shows like this: img [img](screenshots/nav-issue.png) however if I do -20px or lower the size is ok but the position is slightly lower than in the mock up image.
+One more challenge was when I wanted to make sure that “nav” tag containing the links stays in the middle of the header, I was trying to achieve that by setting margin top for selector “a” to -40 px but when I do that it shows like this: [img](screenshots/nav-issue.png) however if I do -20px or lower the size is ok but the position is slightly lower than in the mock up image.
 
 I also had other minor challenges.
 
