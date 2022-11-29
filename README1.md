@@ -52,7 +52,7 @@ Click on the deployed link above.
  
 ## Usage:
 
-###### Open the aplication![oppen-the-aplication](https://user-images.githubusercontent.com/116027529/204500253-86a6e7ac-0b43-4e22-8cb2-dc56409f2e47.png)
+#### Open the aplication![oppen-the-aplication](https://user-images.githubusercontent.com/116027529/204500253-86a6e7ac-0b43-4e22-8cb2-dc56409f2e47.png)
 
 
 Go to the navigation menu. ```md![alt text](assets/images/screenshot.png)
