@@ -52,7 +52,7 @@ I also had other minor challenges.
  
 ## Usage:
 
-### Open the aplication. ![open-app] (screenshots/oppen-the-aplication.png)
+### Open the aplication. ![open-app](screenshots/oppen-the-aplication.png)
 
 ### Go to the navigation menu. [nav-menu](screenshots/go-nav-menu.png)
 
