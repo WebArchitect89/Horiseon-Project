@@ -52,8 +52,8 @@ Click on the deployed link above.
  
 ## Usage:
 
-[Open the application.](starter\assets\Screenshots\Oppen-the-aplication.png)
-```
+Oppen the aplication-![Screenshot.](starter\assets\screenshots\oppen-the-aplication.png)
+
 Go to the navigation menu. ```md![alt text](assets/images/screenshot.png)
 ```
 To check each tool available click on the desired option.```md![alt text](assets/images/screenshot.png)
