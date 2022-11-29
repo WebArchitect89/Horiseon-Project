@@ -54,9 +54,9 @@ I also had other minor challenges.
 
 ### Open the aplication. ![open-app](screenshots/oppen-the-aplication.png)
 
-### Go to the navigation menu. [nav-menu](screenshots/go-nav-menu.png)
+### Go to the navigation menu. ![nav-menu](screenshots/go-nav-menu.png)
 
 ### To check each tool available click on the desired option.
 
-### To check the benefits, scroll all the way to the right and then to the bottom. [benefits](screenshots/benefits.png) 
+### To check the benefits, scroll all the way to the right and then to the bottom. ![benefits](screenshots/benefits.png) 
 
